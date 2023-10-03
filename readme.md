@@ -2,14 +2,10 @@
 
 ### Full-Stack Developer / Video Game Developer / 3D Artist
 
-- 🔭 I’m currently working on: ExercisesAI 
 - 🌱 I’m currently learning: Reactjs, Opengl Game Engines, Flutter
 - 💬 Ask me about: React Programming, Web development, Video game development
-- 🧧 Chinese name: __畢少謙__
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
-
+- ⚡ Fun fact: I am a canadian citizen, but have lived outside of Canada for longer than in.
 <br/>
-
 
 <table>
     <tr>
@@ -26,13 +22,11 @@
     </tr>
 </table>
 
-
-
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/RylanJGraham/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
-### Toolset
+### Tech Stack
 
 <table>
     <tr>
@@ -107,16 +101,6 @@
     </tr>
 </table>
 
-
-<br/>
-
-### Support my Work
-<br/>
-<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
-<br />
-
 ### My GitHub Stats
 
 <table>
@@ -137,6 +121,15 @@
         </td>
     </tr>
 </table>
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=RylanJGraham&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RylanJGraham&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RylanJGraham&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RylanJGraham&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
