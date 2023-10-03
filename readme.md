@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RylanJGraham
-- 👀 I’m interested in 3D Modeling and Programming 
-- 🌱 I’m currently learning Unreal Engine 4 and I am working on learning website design. 
-- 💞️ I’m looking to collaborate on internship opportunities in the video game industry and software. 
-- 📫 How to reach me rylangraham02@gmail.com
+
+<p style="font-weight:bold">👋 Hi, I’m @RylanJGraham </p>
+
+
 
 <!---
 RylanJGraham/RylanJGraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
