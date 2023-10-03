@@ -17,7 +17,7 @@
             <a href="https://rylanjgraham.com">🌐</a>
         </td>
         <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
+            <a href="https://www.rylanjgraham.com/cv">📃</a>
         </td>
     </tr>
 </table>
@@ -101,34 +101,10 @@
     </tr>
 </table>
 
-### My GitHub Stats
-
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=colinbut&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=colinbut"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=colinbut&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
-
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=RylanJGraham&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RylanJGraham&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RylanJGraham&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=RylanJGraham&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
