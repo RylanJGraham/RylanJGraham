@@ -2,6 +2,12 @@
 
 ### Full-Stack Developer / Video Game Developer / 3D Artist
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 - 🌱 I’m currently learning: Reactjs, Opengl Game Engines, Flutter
 - 💬 Ask me about: React Programming, Web development, Video game development
 - ⚡ Fun fact: I am a canadian citizen, but have lived outside of Canada for longer than in.
