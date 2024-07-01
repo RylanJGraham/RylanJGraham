@@ -20,10 +20,10 @@
     </tr>
     <tr>
         <td>
-            <a href="https://rylanjgraham.com">🌐</a>
+            <a href="https://rylan-portfolio.vercel.app/">🌐</a>
         </td>
         <td>
-            <a href="https://www.rylanjgraham.com/cv">📃</a>
+            <a href="https://rylan-portfolio.vercel.app/resume">📃</a>
         </td>
     </tr>
 </table>
